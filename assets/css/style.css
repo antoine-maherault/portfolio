@@ -546,7 +546,7 @@ p {
         -ms-transition: all 0.3s ease-out 0s;
         -o-transition: all 0.3s ease-out 0s;
         transition: all 0.3s ease-out 0s; }
-        .navigation .navbar .navbar-nav .nav-item a::before {
+        /* .navigation .navbar .navbar-nav .nav-item a::before {
           position: absolute;
           content: '';
           width: 3px;
@@ -563,7 +563,7 @@ p {
           -moz-transition: all 0.3s ease-out 0s;
           -ms-transition: all 0.3s ease-out 0s;
           -o-transition: all 0.3s ease-out 0s;
-          transition: all 0.3s ease-out 0s; }
+          transition: all 0.3s ease-out 0s; } */
           @media only screen and (min-width: 768px) and (max-width: 991px) {
             .navigation .navbar .navbar-nav .nav-item a::before {
               display: none; } }
